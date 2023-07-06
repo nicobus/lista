@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="El Trece | AR" tvg-logo="https://i.paste.pics/d02b6b3b0cc50273b2bab778279779a3.png" group-title="Aire",El Trece | AR
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Encuentro | AR" tvg-logo="https://i.paste.pics/6ea1efdaba3065291386bc1637fc488a.png" group-title="Aire",Encuentro | AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="VariedTV | AR" tvg-logo="https://i.paste.pics/afb90bf11a606a30ee4294c8b32cf9e4.png" group-title="Aire",VariedTV | AR
+https://6362ca6f1fc28.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Mundo de la Musica TV * | CL" tvg-logo="https://i2.paste.pics/a66f18725932decfa4fcf7f634060922.png" group-title="Aire",Mundo de la Musica TV * | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus TV * | CL" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Aire",Retro Plus TV * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="El Nueve" tvg-logo="" group-title="Aire",El Nueve
+https://v3.playerlatino.live/stream/m3u8/772
+#EXTINF:-1 tvg-id="ext" tvg-name="EL Trece" tvg-logo="" group-title="Aire",EL Trece
+https://v3.playerlatino.live/stream/m3u8/767
+#EXTINF:-1 tvg-id="ext" tvg-name="Telefe" tvg-logo="" group-title="Aire",Telefe
+https://v3.playerlatino.live/stream/m3u8/771
+#EXTINF:-1 tvg-id="ext" tvg-name="TV Publica | AR" tvg-logo="https://lh3.googleusercontent.com/-0K_G9JiAw-I/XkCUfNx8kmI/AAAAAAAAv8Y/eK0_8koGnZYLy58qtmUqW26VOZjRqqV8gCK8BGAsYHg/s0/2020-02-09.png" group-title="Aire",TV Publica | AR
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="ext" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="Aire",El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="A&E" tvg-logo="" group-title="Cable",A&E
+https://v3.playerlatino.live/stream/m3u8/474
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="Cable",AXN
+https://v3.playerlatino.live/stream/m3u8/714
+#EXTINF:-1 tvg-id="ext" tvg-name="AMC" tvg-logo="" group-title="Cable",AMC
+https://v3.playerlatino.live/stream/m3u8/183
+#EXTINF:-1 tvg-id="ext" tvg-name="GOLDEN PLUS" tvg-logo="" group-title="Cable",GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="" group-title="Cable",Animal Planet
+https://v3.playerlatino.live/stream/m3u8/3
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="" group-title="Cable",Cinecanal
+https://v3.playerlatino.live/stream/m3u8/18
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="Cable",Cinemax
+https://v3.playerlatino.live/stream/m3u8/20
+#EXTINF:-1 tvg-id="ext" tvg-name="DHE" tvg-logo="" group-title="Cable",DHE
+https://v3.playerlatino.live/stream/m3u8/844
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="" group-title="Cable",Discovery
+https://v3.playerlatino.live/stream/m3u8/22
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery1" tvg-logo="" group-title="Cable",Discovery1
+https://v3.playerlatino.live/stream/m3u8/639
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cable",Discovery Turbo
+https://v3.playerlatino.live/stream/m3u8/28
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery World" tvg-logo="" group-title="Cable",Discovery World
+https://v3.playerlatino.live/stream/m3u8/187
+#EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="" group-title="Cable",Gourmet
+https://v3.playerlatino.live/stream/m3u8/157
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden Edge 1" tvg-logo="" group-title="Cable",Golden Edge 1
+https://v3.playerlatino.live/stream/m3u8/57
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden Edge" tvg-logo="" group-title="Cable",Golden Edge
+https://v3.playerlatino.live/stream/m3u8/58
+#EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="" group-title="Cable",History 2
+https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Cable",HBO
+https://v3.playerlatino.live/stream/m3u8/62
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="Cable",HBO 2
+https://v3.playerlatino.live/stream/m3u8/300
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="Cable",HBO Family
+https://v3.playerlatino.live/stream/m3u8/63
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO +" tvg-logo="" group-title="Cable",HBO +
+https://v3.playerlatino.live/stream/m3u8/64
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Extreme" tvg-logo="" group-title="Cable",HBO Extreme
+https://v3.playerlatino.live/stream/m3u8/814
+#EXTINF:-1 tvg-id="ext" tvg-name="History" tvg-logo="" group-title="Cable",History
+https://v3.playerlatino.live/stream/m3u8/67
+#EXTINF:-1 tvg-id="ext" tvg-name="ID" tvg-logo="" group-title="Cable",ID
+https://v3.playerlatino.live/stream/m3u8/68
+#EXTINF:-1 tvg-id="ext" tvg-name="Lifetime" tvg-logo="" group-title="Cable",Lifetime
+https://v3.playerlatino.live/stream/m3u8/152
+#EXTINF:-1 tvg-id="ext" tvg-name="NatGeo Mundo" tvg-logo="" group-title="Cable",NatGeo Mundo
+https://v3.playerlatino.live/stream/m3u8/77
+#EXTINF:-1 tvg-id="ext" tvg-name="Universal" tvg-logo="" group-title="Cable",Universal
+https://v3.playerlatino.live/stream/m3u8/184
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony" tvg-logo="" group-title="Cable",Sony
+https://v3.playerlatino.live/stream/m3u8/145
+#EXTINF:-1 tvg-id="ext" tvg-name="Space" tvg-logo="" group-title="Cable",Space
+https://v3.playerlatino.live/stream/m3u8/83
+#EXTINF:-1 tvg-id="ext" tvg-name="Studio" tvg-logo="" group-title="Cable",Studio
+https://v3.playerlatino.live/stream/m3u8/84
+#EXTINF:-1 tvg-id="ext" tvg-name="SyFy" tvg-logo="" group-title="Cable",SyFy
+https://v3.playerlatino.live/stream/m3u8/151
+#EXTINF:-1 tvg-id="ext" tvg-name="TCM" tvg-logo="" group-title="Cable",TCM
+https://v3.playerlatino.live/stream/m3u8/85
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT1" tvg-logo="" group-title="Cable",TNT1
+https://v3.playerlatino.live/stream/m3u8/752
+#EXTINF:-1 tvg-id="ext" tvg-name="TNT" tvg-logo="" group-title="Cable",TNT
+https://v3.playerlatino.live/stream/m3u8/90
+#EXTINF:-1 tvg-id="ext" tvg-name="Studio Universal" tvg-logo="" group-title="Cable",Studio Universal
+https://v3.playerlatino.live/stream/m3u8/137
+#EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="" group-title="Cable",AXN
+http://190.92.7.19:8000/play/a01e/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AnimalPlanet" tvg-logo="" group-title="Cable",AnimalPlanet
+http://190.92.7.19:8000/play/a02h/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="cartoon" tvg-logo="" group-title="Cable",cartoon
+http://190.92.7.19:8000/play/a00z/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="cartoonito" tvg-logo="" group-title="Cable",cartoonito
+http://190.92.7.19:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Cine canal" tvg-logo="" group-title="Cable",Cine canal
+http://190.92.7.19:8000/play/a03c/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="CineMax" tvg-logo="" group-title="Cable",CineMax
+http://190.92.7.19:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Channel" tvg-logo="" group-title="Cable",Discovery Channel
+http://190.92.7.19:8000/play/a02g/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discoveri ki" tvg-logo="" group-title="Cable",Discoveri ki
+http://190.92.7.19:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery scien" tvg-logo="" group-title="Cable",Discovery scien
+http://190.92.7.19:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery Turbo" tvg-logo="" group-title="Cable",Discovery Turbo
+http://190.92.7.19:8000/play/a02y/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Disney Jubior" tvg-logo="" group-title="Cable",Disney Jubior
+http://190.92.7.19:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Fil&arte" tvg-logo="" group-title="Cable",Fil&arte
+http://190.92.7.19:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden" tvg-logo="" group-title="Cable",Golden
+http://190.92.7.19:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Golden HD" tvg-logo="" group-title="Cable",Golden HD
+http://190.92.7.19:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="History2" tvg-logo="" group-title="Cable",History2
+http://190.92.7.19:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="History HD" tvg-logo="" group-title="Cable",History HD
+http://190.92.7.19:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Space HD" tvg-logo="" group-title="Cable",Space HD
+http://190.92.7.19:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="cine premiun" tvg-logo="" group-title="Cable",cine premiun
+http://181.119.67.75:16123/play/ch49
+#EXTINF:-1 tvg-id="ext" tvg-name="VTV HND" tvg-logo="" group-title="Cable",VTV HND
+http://190.92.7.19:8000/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Cable",HBO
+http://45.189.117.202:48000/play/a01g/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO 2" tvg-logo="" group-title="Cable",HBO 2
+http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="" group-title="Cable",HBO Family
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO +plus" tvg-logo="" group-title="Cable",HBO +plus
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Xtreme" tvg-logo="" group-title="Cable",HBO Xtreme
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="" group-title="Cable",HBO
+http://190.83.119.67:8000/play/a00p/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="WTV Canal 20 (720p)" tvg-logo="" group-title="Cable",WTV Canal 20 (720p)
+https://cloudvideo.servers10.com:8081/8130/index.m3u8?checkedby:iptvcat.com
